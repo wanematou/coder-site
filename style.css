@@ -1,0 +1,174 @@
+.s0{
+    margin-left: 600px;
+}
+.s1{
+    background: rgb(211, 206, 206);
+} 
+.a1{
+ font-size:  200px; 
+ padding-left: 50px; 
+ color: white; 
+}
+.a2{
+ font-size: 50px; color: blue;
+}
+.a3{
+    font-size: 20px; width: 500px; text-align: justify; padding-left: 50px;
+
+}
+
+.b11{
+    color: rgb(23, 23, 228); font-size: 50px; padding-left: 150px;
+
+}
+.b12{
+    padding-left: 150px; width: 400px;text-align: justify; font-size: 20px;
+}
+.b2{
+    padding-left: 500px;
+
+}
+.c1{
+    padding-left: 250px; 
+}
+.c2{
+    color: blue; font-size: 50px; 
+}
+.c3{ text-align: justify; width: 400px;font-size: 20px;
+    
+}
+.s3{
+    display: flex; padding-top: 150px;
+}
+.d1{
+  padding-top: 50px; width: 5000px; height: 500px;text-align: justify;background-color: rgb(199, 187, 187);
+  ; 
+}
+.d2{
+    font-size: 20px;
+}
+.d4{
+    width: 150px;text-align: right; margin-left: 50px; font-size: 30px; margin-top: 300px; margin-right: 100px;
+ font-weight: bold; text-align: end;
+ 
+}
+.s3 .d3{
+    background-color: blue; width: 2000px; height: 300px;
+}
+
+.s4{
+    padding-top: px; 
+}
+.e1{
+    display: flex;
+}
+.s4 h1{ font-size: 70px; width: 350px;font-weight: bold; margin-left: 150px; color: blue;
+
+}
+.s4 p{ width: 400px; margin-left: 100px ;text-align: justify; font-size: 20px; 
+
+}
+.s4 h2{background: blue; width: 15%; height: 50px; ;margin-left: 100px; color: white; text-align: center;
+}
+.e2{
+    display: flex                                                                                                                                                                                                                     
+}
+.e2 p{ margin-left: 150px;
+
+}
+.e2 img{
+    margin-left: 150px; margin-bottom: 70px;
+}
+.s5{
+    background-color: rgb(219, 217, 217); width: 100%; height: 500px; padding-bottom: 500px;
+}
+.s5 img{
+    padding-top: 145px; margin-left: 150px; 
+}
+.s5 h1{ color: blue; font-size: 50px; width: 70%; font-weight: bold; margin-left: 150px; 
+
+}
+.s5 h3{ font-weight: bold; width: 50%; margin-left: 500px;
+
+}
+.f1{ margin-left: 1000px; 
+
+}
+.s6{
+    display: flex; width: 100%;
+}
+.ss{
+    padding-bottom: 70px; color: blue; font-weight: bold; font-size: 40px; padding-left: 30%;
+}
+.g1{
+    width: 50%; margin-left: 50px;
+}
+.g2{
+    width: 50%; margin-right: 50px;
+}
+.g1 img{
+    border-radius: 50%; margin-left: 20%;
+}
+.g2 img{
+    border-radius: 50%; margin-right: 20%;
+}
+.g1 p{
+    padding-top: 40%; width: 50%; margin-left: 20%; text-align: justify;
+}
+.g2 p{
+    padding-top: 40%; width: 50%; margin-left: 20%; text-align: justify;
+}
+.g1 b{
+    font-size: 40px;
+}
+.g2 b{
+    font-size: 40px;
+}
+.s7{
+    display: flex; width: 100%; background-color: rgb(209, 203, 203);
+}
+.h1{
+    width: 50%; text-align: justify; font-size: 25px; margin-left: 10%; text-align: justify;
+}
+.h2{
+    width: 50%; text-align: justify; margin-left: 15%; font-size: 25px; margin-right: 10%;text-align: justify;
+}
+.sss h1{
+    margin-left: 15% ; font-size: 200px; color: white; 
+}
+.sss h2{
+    width: 45%; margin-left: 15% ;
+}
+.sss h3{
+    color: blue; font-size: 35px; width: 20px; width: 100%; text-align: justify; margin-left: 15%;
+}
+.sss img{
+   margin-left: 15%;
+}
+.sss{
+    background-color: rgb(209, 203, 203); height: 500px; padding-bottom: 10%;
+}
+.h2 p{
+    background-color: blue; color: white; width: 25%;
+}
+.s8{
+    display: flex; width: 100%; height: 500px; padding-top: 5%; padding-bottom: 5%;
+}
+.j1{ 
+width: 70%; margin-left: 25%;
+}
+.j2{
+     margin-right: 50px; width: 25%; background-color: rgb(214, 209, 209);
+}
+.j2 img{
+    border-radius: 50%; margin-right: 22%;
+}
+.j2 p{
+    text-align: justify; 
+}
+.j1 h1{ color: blue; font-size: 60px; font-weight: bold;
+
+}
+.s9{ 
+ background-color: rgb(34, 32, 32); color: white; height: 100px; padding-top: 5%;
+}
